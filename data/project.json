@@ -1,1 +1,156 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"tepolk77","avatar_url":"https://avatars.githubusercontent.com/u/144855109?v=4","admin":true}],"project":{"github_org":"tepolk77","is_private":false,"title":"Usability test","description":"Test project","language":"en","slug":"test-session-tepolk","creator":"tepolk77","authors":"","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"category":"Form","color":"#ADFEFF"},{"category":"Performance","color":"#99E6FF"},{"category":"Extra-Poetic Sounds","color":"#88C9F2"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Tempo","category":"Performance"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"},{"tag":"Technical Sounds","category":"Extra-Poetic Sounds"},{"tag":"Speech","category":"Extra-Poetic Sounds"},{"tag":"Ambient Noise","category":"Extra-Poetic Sounds"},{"tag":"Audience Sounds","category":"Extra-Poetic Sounds"},{"category":"_uncategorized_","tag":"Title"},{"category":"_uncategorized_","tag":"Poem"},{"category":"_uncategorized_","tag":"Volume"}]},"created_at":"2025-05-14T19:07:33.379Z","updated_at":"2025-05-14T19:21:02.416Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"9e2bc51c-5b65-4795-97c9-70f57d29de62":{"content":[],"created_at":"2025-05-14T19:07:33.382Z","created_by":"tepolk77","title":"Usability test","updated_at":"2025-05-14T19:07:33.382Z","updated_by":"tepolk77","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["9e2bc51c-5b65-4795-97c9-70f57d29de62"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "tepolk77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144855109?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "tepolk77",
+    "is_private": false,
+    "title": "Usability test",
+    "description": "Test project",
+    "language": "en",
+    "slug": "test-session-tepolk",
+    "creator": "tepolk77",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ]
+    },
+    "created_at": "2025-05-14T19:07:33.379Z",
+    "updated_at": "2025-05-14T19:21:03.278Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "9e2bc51c-5b65-4795-97c9-70f57d29de62": {
+      "content": [],
+      "created_at": "2025-05-14T19:07:33.382Z",
+      "created_by": "tepolk77",
+      "title": "Usability test",
+      "updated_at": "2025-05-14T19:07:33.382Z",
+      "updated_by": "tepolk77",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "9e2bc51c-5b65-4795-97c9-70f57d29de62"
+  ]
+}
